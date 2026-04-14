@@ -14,6 +14,11 @@ SQL kood ja konspektid.
 - Rida - kirje (record)
 - Primaarne võti - Primary Key (PK) - (id mis eristab igat kirjet)
 - Välisvõti (võõrvõti) - Foreign Key (FK) - (Loob seose teise tabeli primaarvõtmega)
+- SQL (Structured Query Language) - struktureeritud päringukeel
+- DDL (Data Definition Language) - andme struktuuri loomiskeel - create, alter, drop
+- DML (Data Manipulation Language) - andmete modifitseerimiskeel - insert, update, delete
+
+
 
 ## Andmetüübid
  - INT, float, decimal(nt 6,2)
