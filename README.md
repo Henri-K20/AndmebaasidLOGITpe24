@@ -28,6 +28,22 @@ SQL kood ja konspektid.
 
 
 ## Piirangud
-1. 
+```
+1. Primary Key
+2. Foreign Key
+3. Unique
+4. Not Null
+5. Check
+```
+
+## Tabelivahelised Seosed
+- üks ühele (nt abielu mehe ja naise vahel)
+- üks mitmele (nt õpilane käib mitmes erinevas õppeaines)
+   <img width="539" height="262" alt="{3D0D0400-818B-4D0C-90FC-23E43F8F9A3D}" src="https://github.com/user-attachments/assets/0216113a-ae88-4313-ba05-1195f04e0df2" />
+
+- mitu mitmele (nt õpetajal mitu õpilast/õpilasel mitu õpetajat)
+
+
+
 
 
