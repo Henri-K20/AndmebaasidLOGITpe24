@@ -2,11 +2,11 @@
 SQL kood ja konspektid.
 
    ## Sisukord
-- [Andmebaasihaldussüsteemid](#-andmebaasihaldussüsteemid)
-- [Mõisted](#-mõisted)
-- [Andmetüübid](#-andmetüübid)
-- [Piirangud](#-piirangud)
-- [Seosed](#-seosed)
+- [Andmebaasihaldussüsteemid](#andmebaasihaldussüsteemid)
+- [Mõisted](#mõisted)
+- [Andmetüübid](#andmetüübid)
+- [Piirangud](#piirangud)
+- [Seosed](#seosed)
 
 
 
