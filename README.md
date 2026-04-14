@@ -1,13 +1,29 @@
 # AndmebaasidLOGITpe24
 SQL kood ja konspektid.
 
-### Kasutame andmebasihaldussüsteeme:
+   ## Sisukord
+- [Andmebaasihaldussüsteemid](#-Andmebaasihaldussüsteemid)
+- [Mõisted](#-Mõisted)
+- [Andmetüübid](#-Andmetüübid)
+- [Piirangud](#-Piirangud)
+- [Seosed](#-Seosed)
+
+
+
+
+
+
+
+
+
+
+## Andmebaasihaldussüsteemid:
 1. SQL Server Management Studio (SQL serveri haldamiseks)
    <img width="471" height="505" alt="{4376C754-7F60-4484-9446-CA1C4675A193}" src="https://github.com/user-attachments/assets/2a6ebf7c-93a1-4e47-af53-536ebd9b3719" />
 
 3. XAMPP - phpmyadmin (mariaDB andmebaas)
 
-### Mõisted:
+## Mõisted:
 - Andmebaas - Keskne andmete kogum
 - Tabel - olem (entity). Struktureeritud konteiner andmebaasis, mis organiseerib andmed veerudeks ja ridadeks.
 - Veerg - väli (field)
@@ -36,7 +52,7 @@ SQL kood ja konspektid.
 5. Check
 ```
 
-## Tabelivahelised Seosed
+## Seosed
 - üks ühele (nt abielu mehe ja naise vahel)
 - üks mitmele (nt õpilane käib mitmes erinevas õppeaines)
    <img width="539" height="262" alt="{3D0D0400-818B-4D0C-90FC-23E43F8F9A3D}" src="https://github.com/user-attachments/assets/0216113a-ae88-4313-ba05-1195f04e0df2" />
