@@ -3,7 +3,9 @@ SQL kood ja konspektid.
 
 ### Kasutame andmebasihaldussüsteeme:
 1. SQL Server Management Studio (SQL serveri haldamiseks)
-2. XAMPP - phpmyadmin (mariaDB andmebaas)
+   <img width="471" height="505" alt="{4376C754-7F60-4484-9446-CA1C4675A193}" src="https://github.com/user-attachments/assets/2a6ebf7c-93a1-4e47-af53-536ebd9b3719" />
+
+3. XAMPP - phpmyadmin (mariaDB andmebaas)
 
 ### Mõisted:
 - Andmebaas - Keskne andmete kogum
