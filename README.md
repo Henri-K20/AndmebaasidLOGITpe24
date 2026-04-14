@@ -6,7 +6,7 @@ SQL kood ja konspektid.
 - [Mõisted](#-mõisted)
 - [Andmetüübid](#-andmetüübid)
 - [Piirangud](#-piirangud)
-- [Seosed](##-seosed)
+- [Seosed](#-seosed)
 
 
 
