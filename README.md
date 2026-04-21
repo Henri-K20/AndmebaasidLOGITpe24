@@ -87,5 +87,16 @@ begin
 end
 
 exec kustutaidJargi 1
+```
 
+### Otsinguprotseduur
+```
+create procedure otsi
+@taht char(1) as
+begin
+	select category_name from categories
+	where category_name like @taht + '%'
+end
+
+exec otsi a
 ```
