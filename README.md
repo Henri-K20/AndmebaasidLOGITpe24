@@ -62,6 +62,8 @@ SQL kood ja konspektid.
 ## Stored procedure
    Salvestatud protseduurid - sama mis on funktsioonid programmeerimises
 saab automaatselt teha (insert, select, update, delete)
+
+### Lisamisprotseduur
 ```
 create procedure lisaKategooria
 @nimi varchar(15) as
@@ -74,6 +76,7 @@ end
 exec lisaKategooria 'test'
 ```
 
+### Kustutamisprotseduur
 ```
 create procedure kustutaidJargi
 @id int as
