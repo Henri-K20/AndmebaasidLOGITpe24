@@ -59,7 +59,16 @@ SQL kood ja konspektid.
 
 - mitu mitmele (nt õpetajal mitu õpilast/õpilasel mitu õpetajat)
 
-
-
-
+## Stored procedure
+   Salvestatud protseduurid - sama mis on funktsioonid programmeerimises
+saab automaatselt teha (insert, select, update, delete)
+```
+create procedure lisaKategooria
+@nimi varchar(15) as
+begin
+	insert into categories
+	values (@nimi)
+	select * from categories
+end
+```
 
