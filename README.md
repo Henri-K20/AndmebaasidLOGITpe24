@@ -70,5 +70,7 @@ begin
 	values (@nimi)
 	select * from categories
 end
+
+exec lisaKategooria 'test'
 ```
 
