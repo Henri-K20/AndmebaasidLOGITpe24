@@ -74,3 +74,15 @@ end
 exec lisaKategooria 'test'
 ```
 
+```
+create procedure kustutaidJargi
+@id int as
+begin
+	select * from categories
+	delete from categories where category_id=@id
+	select * from categories
+end
+
+exec kustutaidJargi 1
+
+```
