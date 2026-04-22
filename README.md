@@ -100,3 +100,9 @@ end
 
 exec otsi a
 ```
+### Xampp protseduuri lisamine
+<img width="766" height="226" alt="{B982CB54-3C0C-4F15-A5CB-AAB645116442}" src="https://github.com/user-attachments/assets/528ff186-f4ca-44a1-adec-a6f9998b85a4" />
+
+
+
+
