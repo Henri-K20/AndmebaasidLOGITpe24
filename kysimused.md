@@ -21,6 +21,16 @@ DML: INSERT, UPDATE, DELETE. Andmete töötlemise keel
 
 <img width="509" height="67" alt="{279D2EB0-F40D-4656-90A7-32EF9F8C5082}" src="https://github.com/user-attachments/assets/2c4c6d3e-c61a-433d-8605-12546a0e1595" />
 <img width="394" height="301" alt="{69151BCF-5AD4-4DF8-8B2F-18B40536F415}" src="https://github.com/user-attachments/assets/f342f821-1c8c-4a99-82ce-4b0ef96bbb69" />
+<img width="181" height="74" alt="{DCC64531-C4FD-4A19-AC1A-8A945A3C69CA}" src="https://github.com/user-attachments/assets/9f700d5c-469e-4853-8ba5-a88fb6c7f106" />
+<img width="560" height="41" alt="{D86B48FC-BD7D-4AFB-A99A-1E9B39C2C2DB}" src="https://github.com/user-attachments/assets/cfbd9123-4308-4a31-8f27-4009191f97e0" />
+<img width="440" height="35" alt="{689938B0-3DA6-440B-BC23-B0D58364AA26}" src="https://github.com/user-attachments/assets/5d531d9f-5ad9-436c-87f5-3af0f94e936d" />
+<img width="354" height="323" alt="{A01EC5D7-B5BE-4534-81A3-BD2CF6B94640}" src="https://github.com/user-attachments/assets/ff9e34e2-aecf-4c99-818a-9623c1c25fd2" />
+<img width="420" height="69" alt="{FF2E0884-C9AF-4F78-BC64-C0A9F449D59D}" src="https://github.com/user-attachments/assets/e7fd5d48-8272-42b8-881b-c31e1b4891fc" />
+<img width="562" height="100" alt="{3E4925F1-D333-40D8-A090-6B6A35C6F886}" src="https://github.com/user-attachments/assets/94c56cdc-bb9a-4d6d-97ce-042d7d11248f" />
+<img width="391" height="314" alt="{CDDDD5D7-56F3-4F96-A4AD-B452EE072177}" src="https://github.com/user-attachments/assets/c56e721f-9878-4aed-9ced-997018bafab5" />
+<img width="166" height="82" alt="{F4501A47-90F2-4343-BC78-24F24BDAA2D0}" src="https://github.com/user-attachments/assets/88964a5f-e82c-4aa0-978e-3f5ff1c78eee" />
+<img width="227" height="105" alt="{E1C7A533-7CF5-49FF-A34F-D4538616284E}" src="https://github.com/user-attachments/assets/278d8633-5c73-4fd7-9c2d-676f522612a9" />
+<img width="305" height="51" alt="{85C3CE77-7E31-4EAB-A8AF-8C109C4737C2}" src="https://github.com/user-attachments/assets/78488635-36b2-4467-b29a-462834b14849" />
 
 
 
